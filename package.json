@@ -1,0 +1,20 @@
+{
+  "name": "SCSS-Gulp-Boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorak/SCSS-Gulp-Boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylorak/SCSS-Gulp-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/taylorak/SCSS-Gulp-Boilerplate#readme"
+}
