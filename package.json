@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/taylorak/SCSS-Gulp-Boilerplate#readme",
   "devDependencies": {
+    "browser-sync": "^2.11.2",
     "gulp": "^3.9.1",
     "gulp-sass": "^2.2.0"
   }
