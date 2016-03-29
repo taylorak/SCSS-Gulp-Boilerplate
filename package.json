@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/taylorak/SCSS-Gulp-Boilerplate/issues"
   },
-  "homepage": "https://github.com/taylorak/SCSS-Gulp-Boilerplate#readme"
+  "homepage": "https://github.com/taylorak/SCSS-Gulp-Boilerplate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  }
 }
